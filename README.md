@@ -13,7 +13,7 @@ This Vue.js weather app is a simple yet powerful tool to retrieve and display we
 * SearchBox.vue: This component provides a search input field that dynamically suggests locations based on user input. It communicates with the parent component using events like selected-suggestion and enter-pressed.
 
 # Installation and Usage
-1. Clone the repository: git clone https://github.com/sulman7/weather-app.git
+1. Clone the repository: git clone https://github.com/sulman7/vue-weather.git
 2. Navigate to the project directory: cd weather-app
 3. Install dependencies: npm install
 4. Start the development server: npm run serve
